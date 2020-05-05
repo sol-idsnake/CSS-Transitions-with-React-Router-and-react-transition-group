@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "normalize.css": "8.0.1",
-    "react": "16.8.6",
+    "react": "16.13.1",
     "react-dom": "16.8.6",
     "react-router": "5.0.1",
     "react-router-dom": "5.0.1",
